@@ -1,0 +1,8 @@
+*.tmp
+*.log
+
+/build/
+/dist/
+
+config.ini
+secret.txt

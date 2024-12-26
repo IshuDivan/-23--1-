@@ -1,0 +1,17 @@
+Starting logging:
+Thread 1 - 2024-12-26 07:20:56.406297: Key pressed: a
+Thread 2 - 2024-12-26 07:20:56.406297: Key pressed: a
+Thread 1 - 2024-12-26 07:20:56.538046: Key released: a
+Thread 2 - 2024-12-26 07:20:56.538563: Key released: a
+Thread 1 - 2024-12-26 07:20:57.749464: Key pressed: z
+Thread 2 - 2024-12-26 07:20:57.749982: Key pressed: z
+Thread 1 - 2024-12-26 07:20:57.750506: error detected:
+	Error: Bad key 'z' pressed.
+Thread 2 - 2024-12-26 07:20:57.750506: error detected:
+	Error: Bad key 'z' pressed.
+Thread 1 - 2024-12-26 07:20:57.878881: Key released: z
+Thread 2 - 2024-12-26 07:20:57.879401: Key released: z
+Thread 1 - 2024-12-26 07:20:59.296704: Key pressed: ctrl
+Thread 2 - 2024-12-26 07:20:59.297221: Key pressed: ctrl
+Thread 1 - 2024-12-26 07:20:59.449991: detection finished
+Thread 2 - 2024-12-26 07:20:59.450499: detection finished
